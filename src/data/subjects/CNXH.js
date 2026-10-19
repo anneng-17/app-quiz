@@ -2116,7 +2116,7 @@ const CNXH = [
         pairs: [
           {
             left: "Dân chủ xã hội chủ nghĩa là công cụ để giai cấp công nhân thực hiện chuyên chính với các giai cấp khác.",
-            right: "Đúng",
+            right: "Sai",
           },
           {
             left: "Nền dân chủ chủ nô gắn với chế độ chiếm hữu nô lệ.",
@@ -3349,8 +3349,8 @@ const CNXH = [
           "C. Thanh niên.",
           "D. Tín đồ tôn giáo",
         ],
-        answer: [0, 2],
-        explanation: "Các đáp án đúng: A. Nhóm học sinh.; C. Thanh niên.",
+        answer: [1, 2],
+        explanation: "Các đáp án đúng:B. Phụ nữ; C. Thanh niên.",
       },
       {
         id: "b5_c34",
